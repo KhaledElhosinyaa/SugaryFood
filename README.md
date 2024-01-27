@@ -1,0 +1,1 @@
+This project is about creating a model trained on FOOD101 dataset, the idea was to make it real-time, thus if you download the .exe file and open it automatically, you will have a GUI with 2 buttons, start webcam and stop webcam, every 10 seconds it takes a frame and does inference on it and predicts food.
